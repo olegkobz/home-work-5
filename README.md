@@ -43,4 +43,4 @@
 
 ## Посилання
 - **Репозиторій**: [Ваш репозиторій на GitHub](https://github.com/olegkobz/home-work-5/)
-- **Жива сторінка**: [Ваш проєкт на GitHub Pages](посилання_на_живу_сторінку)
+- **Жива сторінка**: [Ваш проєкт на GitHub Pages]([(https://olegkobz.github.io/home-work-5/))
